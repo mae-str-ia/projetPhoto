@@ -1,0 +1,2300 @@
+{
+    "title": "Une Vie en Mouvement",
+    "totalPages": 235,
+    "pageDimensions": {
+        "width": 240,
+        "height": 160
+    },
+    "pages": [
+        {
+            "pageNumber": 1,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 2,
+            "side": "left",
+            "type": "photo",
+            "layout": "1g-2d",
+            "photos": [
+                {
+                    "id": "photo_69f2249855e2e7.87769516",
+                    "filename": "photo_69f2249855e2e7.87769516.png",
+                    "caption": "Nous petits : Samir Nado Raymond Lili Roger",
+                    "captionAlign": "center",
+                    "rotation": 0,
+                    "filter": "none",
+                    "frame": {
+                        "x": 2.787744,
+                        "y": 4.666663,
+                        "w": 40.1847,
+                        "h": 40,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": "original",
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.3,
+                        "panX": 0,
+                        "panY": 0
+                    },
+                    "width": 1088,
+                    "height": 722,
+                    "captionColor": "white",
+                    "captionSize": 10,
+                    "captionPos": "inside-bottom",
+                    "mediaId": "m_69f3202a91c642.23696508"
+                },
+                {
+                    "id": "photo_69f33d04d5a933.13224494",
+                    "filename": "photo_69f33d04d5a933.13224494.png",
+                    "caption": "Nous plus grands en excursion",
+                    "captionAlign": "center",
+                    "rotation": 0,
+                    "filter": "none",
+                    "frame": {
+                        "x": 29.047900184366522,
+                        "y": 50.249133,
+                        "w": 35.523289631266955,
+                        "h": 44.0512,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": "custom",
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.4,
+                        "panX": 12.342340629936288,
+                        "panY": 0.08212722369356706
+                    },
+                    "width": 1088,
+                    "height": 722,
+                    "mediaId": "m_69f33d04d60ea6.36573066",
+                    "captionColor": "white",
+                    "captionSize": 12,
+                    "captionPos": "inside-bottom"
+                },
+                {
+                    "id": "p_1777548315693_wncridpm2h",
+                    "mediaId": "m_69f330904df7a9.60074584",
+                    "filename": "photo_69f330904dcf09.97193231.jpg",
+                    "caption": "Thérèse qui organisait \nsouvent les pique-niques",
+                    "captionAlign": "center",
+                    "rotation": 0,
+                    "filter": "none",
+                    "frame": {
+                        "x": 46.333434,
+                        "y": 4.166666,
+                        "w": 43,
+                        "h": 41.6667,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": "original",
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.3,
+                        "panX": 0,
+                        "panY": 0
+                    },
+                    "width": 1088,
+                    "height": 722,
+                    "captionColor": "black",
+                    "captionSize": 14,
+                    "captionPos": "inside-bottom"
+                }
+            ],
+            "slotAssignments": [
+                "photo_69f33d04d5a933.13224494",
+                "photo_69f2249855e2e7.87769516",
+                "p_1777548315693_wncridpm2h"
+            ]
+        },
+        {
+            "pageNumber": 3,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 3
+        },
+        {
+            "pageNumber": 4,
+            "side": "left",
+            "type": "text",
+            "pdfPage": 4
+        },
+        {
+            "pageNumber": 5,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 5
+        },
+        {
+            "pageNumber": 6,
+            "side": "left",
+            "type": "photo",
+            "layout": "1g-2d",
+            "photos": [
+                {
+                    "id": "p_1777547618936_3n133rysutt",
+                    "mediaId": "m_69f3202a91c607.37778560",
+                    "filename": "photo_69f0f27adb24b2.99999462.jpg",
+                    "width": 1772,
+                    "height": 1772,
+                    "caption": "Maman",
+                    "frame": {
+                        "x": 9.02359899962968,
+                        "y": 4.853059671986749,
+                        "w": 18.619468667407304,
+                        "h": 40.2938806560265,
+                        "z": 1,
+                        "shape": "rect",
+                        "ratio": "custom",
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.6,
+                        "panX": 19.6,
+                        "panY": 3.734439834024896
+                    },
+                    "captionAlign": "center",
+                    "captionColor": "white",
+                    "captionSize": 14,
+                    "captionPos": "inside-bottom"
+                },
+                {
+                    "id": "p_1777547755892_bvktcu6kko",
+                    "mediaId": "m_69f3202a91c369.02551976",
+                    "filename": "photo_69f0f24a866940.01422226.jpg",
+                    "width": 1536,
+                    "height": 2048,
+                    "caption": "Papa avec Joe et Gab",
+                    "frame": {
+                        "x": 5,
+                        "y": 5,
+                        "w": 20,
+                        "h": 40,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": null,
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.4,
+                        "panX": 5.525727069351229,
+                        "panY": 19.999999999999996
+                    },
+                    "captionAlign": "center",
+                    "captionColor": "white",
+                    "captionSize": 11,
+                    "captionPos": "inside-bottom",
+                    "brightness": 120
+                },
+                {
+                    "id": "p_1777547853034_7d91do6dctd",
+                    "mediaId": "m_69f33090524a54.38133006",
+                    "filename": "photo_69f3309051e7f8.84415846.jpg",
+                    "width": 2916,
+                    "height": 2920,
+                    "caption": "Téta",
+                    "frame": {
+                        "x": 5,
+                        "y": 5,
+                        "w": 26.63013698630137,
+                        "h": 40,
+                        "z": 1,
+                        "shape": "rect",
+                        "ratio": null,
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 2.2,
+                        "panX": 0,
+                        "panY": 0
+                    },
+                    "captionAlign": "center",
+                    "captionColor": "white",
+                    "captionSize": 11,
+                    "captionPos": "inside-bottom"
+                }
+            ],
+            "slotAssignments": [
+                "p_1777547755892_bvktcu6kko",
+                "p_1777547618936_3n133rysutt",
+                "p_1777547853034_7d91do6dctd"
+            ]
+        },
+        {
+            "pageNumber": 7,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 7
+        },
+        {
+            "pageNumber": 8,
+            "side": "left",
+            "type": "photo",
+            "layout": "pleine-page",
+            "photos": [
+                {
+                    "id": "p_1777547222571_2zeho3hu70z",
+                    "mediaId": "m_69f3309069d6e2.89608694",
+                    "filename": "photo_69f3309068ddf7.12562259.jpg",
+                    "width": 4032,
+                    "height": 3024,
+                    "caption": "*Khartoum à Asmara",
+                    "frame": {
+                        "x": 9.262536289054452,
+                        "y": 5.254237288135592,
+                        "w": 27.030482977446646,
+                        "h": 39.49152542372882,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": "custom",
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.2,
+                        "panX": 2.852790703405628,
+                        "panY": 3.8135593220338984
+                    },
+                    "captionAlign": "left",
+                    "captionColor": "white",
+                    "captionSize": 11,
+                    "captionPos": "inside-bottom",
+                    "brightness": 125
+                }
+            ],
+            "slotAssignments": [
+                "p_1777547222571_2zeho3hu70z"
+            ]
+        },
+        {
+            "pageNumber": 9,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 9
+        },
+        {
+            "pageNumber": 10,
+            "side": "left",
+            "type": "photo",
+            "layout": "free",
+            "photos": [
+                {
+                    "id": "p_1777548863677_9sfq4c9i4ri",
+                    "mediaId": "m_69f330905a1816.38138541",
+                    "filename": "photo_69f3309059d6f9.22114075.jpg",
+                    "width": 1569,
+                    "height": 2343,
+                    "caption": "La Grande Maison, celle de Papa  on voit la mastaba, et celle de Joe devant ",
+                    "frame": {
+                        "x": 42.8245,
+                        "y": 44.1053,
+                        "w": 44.655,
+                        "h": 50.4421,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": null,
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1,
+                        "panX": 0,
+                        "panY": 0
+                    },
+                    "captionAlign": "left",
+                    "captionColor": "white",
+                    "captionSize": 11,
+                    "captionPos": "inside-bottom"
+                },
+                {
+                    "id": "p_1777548887009_m5b5howijj",
+                    "mediaId": "m_69f331616acd86.00230120",
+                    "filename": "photo_69f331616aaef6.39889749.jpg",
+                    "width": 1088,
+                    "height": 722,
+                    "caption": "Vue sur la Mastaba où nous dormions la nuit",
+                    "frame": {
+                        "x": 4.33333,
+                        "y": 5.33333,
+                        "w": 54.9624,
+                        "h": 47,
+                        "z": 1,
+                        "shape": "rect",
+                        "ratio": null,
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.1,
+                        "panX": 0,
+                        "panY": 0
+                    },
+                    "captionAlign": "left",
+                    "captionColor": "white",
+                    "captionSize": 11,
+                    "captionPos": "inside-bottom"
+                }
+            ],
+            "slotAssignments": []
+        },
+        {
+            "pageNumber": 11,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 11
+        },
+        {
+            "pageNumber": 12,
+            "side": "left",
+            "type": "photo",
+            "layout": "free",
+            "photos": [
+                {
+                    "id": "p_1777549181328_894ebac4xjm",
+                    "mediaId": "m_69f331e06aaa78.26749643",
+                    "filename": "photo_69f331e06a8c80.08127229.png",
+                    "width": 448,
+                    "height": 639,
+                    "caption": "Charlotte la Soeur de Papa, \nSamir et Nado",
+                    "frame": {
+                        "x": 11.4445,
+                        "y": 16.3333,
+                        "w": 24.4736,
+                        "h": 62.3333,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": null,
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1,
+                        "panX": 0,
+                        "panY": 0
+                    },
+                    "captionAlign": "center",
+                    "captionColor": "white",
+                    "captionSize": 14,
+                    "captionPos": "inside-bottom"
+                },
+                {
+                    "id": "photo_69f34236529637.78934978",
+                    "filename": "photo_69f34236529637.78934978.png",
+                    "caption": "Les Lits dans la Véranda ouverte sur le ciel en face",
+                    "captionAlign": "left",
+                    "rotation": 0,
+                    "filter": "none",
+                    "frame": {
+                        "x": 41.2223,
+                        "y": 6.49997,
+                        "w": 44.7778,
+                        "h": 87.5,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": "original",
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "cover",
+                        "zoom": 1.4,
+                        "panX": 7.788944723618091,
+                        "panY": -9.266409266409266
+                    },
+                    "width": 768,
+                    "height": 1024,
+                    "mediaId": "m_69f3423652e044.08866674",
+                    "captionColor": "white",
+                    "captionSize": 16,
+                    "captionPos": "inside-bottom"
+                }
+            ],
+            "slotAssignments": []
+        },
+        {
+            "pageNumber": 13,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 13
+        },
+        {
+            "pageNumber": 14,
+            "side": "left",
+            "type": "photo",
+            "layout": "pleine-page",
+            "photos": [],
+            "slotAssignments": [
+                null
+            ]
+        },
+        {
+            "pageNumber": 15,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 15
+        },
+        {
+            "pageNumber": 16,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 17,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 17
+        },
+        {
+            "pageNumber": 18,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 19,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 19
+        },
+        {
+            "pageNumber": 20,
+            "side": "left",
+            "type": "photo",
+            "layout": "free",
+            "photos": [
+                {
+                    "id": "photo_69f33404740ce8.28135639",
+                    "filename": "photo_69f33404740ce8.28135639.png",
+                    "caption": "Avec mon appareil de Photo \ndéjà inséparable .",
+                    "captionAlign": "center",
+                    "rotation": 0,
+                    "filter": "none",
+                    "frame": {
+                        "x": 14.2029,
+                        "y": 8.18053,
+                        "w": 32.9275,
+                        "h": 80.2085,
+                        "z": 1,
+                        "shape": "rounded",
+                        "ratio": "custom",
+                        "borderWidth": 0,
+                        "borderColor": "white",
+                        "backgroundColor": "white"
+                    },
+                    "crop": {
+                        "fitMode": "contain",
+                        "zoom": 1.5,
+                        "panX": 0,
+                        "panY": -8.865672086796542
+                    },
+                    "width": 722,
+                    "height": 1088,
+                    "mediaId": "m_69f334047450a3.94386547",
+                    "captionColor": "white",
+                    "captionSize": 11,
+                    "captionPos": "inside-top"
+                }
+            ],
+            "slotAssignments": []
+        },
+        {
+            "pageNumber": 21,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 21
+        },
+        {
+            "pageNumber": 22,
+            "side": "left",
+            "type": "photo",
+            "layout": "1h-2b",
+            "photos": [],
+            "slotAssignments": [
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "pageNumber": 23,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 23
+        },
+        {
+            "pageNumber": 24,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 25,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 25
+        },
+        {
+            "pageNumber": 26,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 27,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 27
+        },
+        {
+            "pageNumber": 28,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 29,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 29
+        },
+        {
+            "pageNumber": 30,
+            "side": "left",
+            "type": "photo",
+            "layout": "2-haut-bas",
+            "photos": [],
+            "slotAssignments": [
+                null,
+                null
+            ]
+        },
+        {
+            "pageNumber": 31,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 31
+        },
+        {
+            "pageNumber": 32,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 33,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 33
+        },
+        {
+            "pageNumber": 34,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 35,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 35
+        },
+        {
+            "pageNumber": 36,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 37,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 37
+        },
+        {
+            "pageNumber": 38,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 39,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 39
+        },
+        {
+            "pageNumber": 40,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 41,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 41
+        },
+        {
+            "pageNumber": 42,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 43,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 43
+        },
+        {
+            "pageNumber": 44,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 45,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 45
+        },
+        {
+            "pageNumber": 46,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 47,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 47
+        },
+        {
+            "pageNumber": 48,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 49,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 49
+        },
+        {
+            "pageNumber": 50,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 51,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 51
+        },
+        {
+            "pageNumber": 52,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 53,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 53
+        },
+        {
+            "pageNumber": 54,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 55,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 55
+        },
+        {
+            "pageNumber": 56,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 57,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 57
+        },
+        {
+            "pageNumber": 58,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 59,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 59
+        },
+        {
+            "pageNumber": 60,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 61,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 61
+        },
+        {
+            "pageNumber": 62,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 63,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 63
+        },
+        {
+            "pageNumber": 64,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 65,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 65
+        },
+        {
+            "pageNumber": 66,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 67,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 67
+        },
+        {
+            "pageNumber": 68,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 69,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 69
+        },
+        {
+            "pageNumber": 70,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 71,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 71
+        },
+        {
+            "pageNumber": 72,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 73,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 73
+        },
+        {
+            "pageNumber": 74,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 75,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 75
+        },
+        {
+            "pageNumber": 76,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 77,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 77
+        },
+        {
+            "pageNumber": 78,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 79,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 79
+        },
+        {
+            "pageNumber": 80,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 81,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 81
+        },
+        {
+            "pageNumber": 82,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 83,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 83
+        },
+        {
+            "pageNumber": 84,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 85,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 85
+        },
+        {
+            "pageNumber": 86,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 87,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 87
+        },
+        {
+            "pageNumber": 88,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 89,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 89
+        },
+        {
+            "pageNumber": 90,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 91,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 91
+        },
+        {
+            "pageNumber": 92,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 93,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 93
+        },
+        {
+            "pageNumber": 94,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 95,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 95
+        },
+        {
+            "pageNumber": 96,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 97,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 97
+        },
+        {
+            "pageNumber": 98,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 99,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 99
+        },
+        {
+            "pageNumber": 100,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 101,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 101
+        },
+        {
+            "pageNumber": 102,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 103,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 103
+        },
+        {
+            "pageNumber": 104,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 105,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 105
+        },
+        {
+            "pageNumber": 106,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 107,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 107
+        },
+        {
+            "pageNumber": 108,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 109,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 109
+        },
+        {
+            "pageNumber": 110,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 111,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 111
+        },
+        {
+            "pageNumber": 112,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 113,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 113
+        },
+        {
+            "pageNumber": 114,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 115,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 115
+        },
+        {
+            "pageNumber": 116,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 117,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 117
+        },
+        {
+            "pageNumber": 118,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 119,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 119
+        },
+        {
+            "pageNumber": 120,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 121,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 121
+        },
+        {
+            "pageNumber": 122,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 123,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 123
+        },
+        {
+            "pageNumber": 124,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 125,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 125
+        },
+        {
+            "pageNumber": 126,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 127,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 127
+        },
+        {
+            "pageNumber": 128,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 129,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 129
+        },
+        {
+            "pageNumber": 130,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 131,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 131
+        },
+        {
+            "pageNumber": 132,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 133,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 133
+        },
+        {
+            "pageNumber": 134,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 135,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 135
+        },
+        {
+            "pageNumber": 136,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 137,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 137
+        },
+        {
+            "pageNumber": 138,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 139,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 139
+        },
+        {
+            "pageNumber": 140,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 141,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 141
+        },
+        {
+            "pageNumber": 142,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 143,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 143
+        },
+        {
+            "pageNumber": 144,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 145,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 145
+        },
+        {
+            "pageNumber": 146,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 147,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 147
+        },
+        {
+            "pageNumber": 148,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 149,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 149
+        },
+        {
+            "pageNumber": 150,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 151,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 151
+        },
+        {
+            "pageNumber": 152,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 153,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 153
+        },
+        {
+            "pageNumber": 154,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 155,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 155
+        },
+        {
+            "pageNumber": 156,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 157,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 157
+        },
+        {
+            "pageNumber": 158,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 159,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 159
+        },
+        {
+            "pageNumber": 160,
+            "side": "left",
+            "type": "photo",
+            "layout": "grid-3",
+            "photos": []
+        },
+        {
+            "pageNumber": 161,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 161
+        },
+        {
+            "pageNumber": 162,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 163,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 163
+        },
+        {
+            "pageNumber": 164,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 165,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 165
+        },
+        {
+            "pageNumber": 166,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 167,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 167
+        },
+        {
+            "pageNumber": 168,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 169,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 169
+        },
+        {
+            "pageNumber": 170,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 171,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 171
+        },
+        {
+            "pageNumber": 172,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 173,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 173
+        },
+        {
+            "pageNumber": 174,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 175,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 175
+        },
+        {
+            "pageNumber": 176,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 177,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 177
+        },
+        {
+            "pageNumber": 178,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 179,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 179
+        },
+        {
+            "pageNumber": 180,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 181,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 181
+        },
+        {
+            "pageNumber": 182,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 183,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 183
+        },
+        {
+            "pageNumber": 184,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 185,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 185
+        },
+        {
+            "pageNumber": 186,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 187,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 187
+        },
+        {
+            "pageNumber": 188,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 189,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 189
+        },
+        {
+            "pageNumber": 190,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 191,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 191
+        },
+        {
+            "pageNumber": 192,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 193,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 193
+        },
+        {
+            "pageNumber": 194,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 195,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 195
+        },
+        {
+            "pageNumber": 196,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 197,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 197
+        },
+        {
+            "pageNumber": 198,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 199,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 199
+        },
+        {
+            "pageNumber": 200,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 201,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 201
+        },
+        {
+            "pageNumber": 202,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 203,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 203
+        },
+        {
+            "pageNumber": 204,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 205,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 205
+        },
+        {
+            "pageNumber": 206,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 207,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 207
+        },
+        {
+            "pageNumber": 208,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 209,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 209
+        },
+        {
+            "pageNumber": 210,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 211,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 211
+        },
+        {
+            "pageNumber": 212,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 213,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 213
+        },
+        {
+            "pageNumber": 214,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 215,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 215
+        },
+        {
+            "pageNumber": 216,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 217,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 217
+        },
+        {
+            "pageNumber": 218,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 219,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 219
+        },
+        {
+            "pageNumber": 220,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 221,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 221
+        },
+        {
+            "pageNumber": 222,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 223,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 223
+        },
+        {
+            "pageNumber": 224,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 225,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 225
+        },
+        {
+            "pageNumber": 226,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 227,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 227
+        },
+        {
+            "pageNumber": 228,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 229,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 229
+        },
+        {
+            "pageNumber": 230,
+            "side": "left",
+            "type": "text",
+            "pdfPage": 230
+        },
+        {
+            "pageNumber": 231,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 231
+        },
+        {
+            "pageNumber": 232,
+            "side": "left",
+            "type": "text",
+            "pdfPage": 232
+        },
+        {
+            "pageNumber": 233,
+            "side": "right",
+            "type": "text",
+            "pdfPage": 233
+        },
+        {
+            "pageNumber": 234,
+            "side": "left",
+            "type": "text",
+            "pdfPage": 234
+        },
+        {
+            "pageNumber": 235,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 236,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 237,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 238,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 239,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 240,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 241,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 242,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 243,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 244,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 245,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 246,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 247,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 248,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 249,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 250,
+            "side": "left",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        },
+        {
+            "pageNumber": 251,
+            "side": "right",
+            "type": "photo",
+            "layout": "4-grille",
+            "photos": []
+        }
+    ],
+    "properties": {
+        "pageDimensions": {
+            "widthCm": 24,
+            "heightCm": 16
+        },
+        "photoPageMargins": {
+            "topCm": 1,
+            "rightCm": 1,
+            "bottomCm": 1,
+            "leftCm": 1
+        },
+        "bindingCm": 2,
+        "textPageMargins": {
+            "topCm": 2,
+            "rightCm": 2,
+            "bottomCm": 2,
+            "leftCm": 2
+        },
+        "textBindingCm": 3,
+        "pageNumberOffset": 0,
+        "defaultLayout": "pleine-page",
+        "leftPageMargins": {
+            "topCm": 1,
+            "rightCm": 3,
+            "bottomCm": 1,
+            "leftCm": 1
+        }
+    },
+    "media": [
+        {
+            "id": "m_69f3202a91c369.02551976",
+            "filename": "photo_69f0f24a866940.01422226.jpg",
+            "width": 1536,
+            "height": 2048,
+            "uploadedAt": "2026-04-30T11:26:02+02:00",
+            "defaultCaption": "Papa avec Joe et Gab"
+        },
+        {
+            "id": "m_69f3202a91c607.37778560",
+            "filename": "photo_69f0f27adb24b2.99999462.jpg",
+            "width": 1772,
+            "height": 1772,
+            "uploadedAt": "2026-04-30T11:26:02+02:00",
+            "defaultCaption": "Maman"
+        },
+        {
+            "id": "m_69f3202a91c642.23696508",
+            "filename": "photo_69f2249855e2e7.87769516.png",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T11:26:02+02:00",
+            "defaultCaption": "Nous petits : Samir Nado Raymond Lili Roger"
+        },
+        {
+            "id": "m_69f330903bad31.27453319",
+            "filename": "photo_69f330903b8c02.96467252.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Nous un peu plus grands en Excursion"
+        },
+        {
+            "id": "m_69f33090436fa4.50446699",
+            "filename": "photo_69f33090435754.18834825.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*3 Générations : Granny Maman Lili"
+        },
+        {
+            "id": "m_69f330904df7a9.60074584",
+            "filename": "photo_69f330904dcf09.97193231.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "ThérèseThérèse qui organisait souvent les Pique-Niques qui organisait souvent les Pique-Niques"
+        },
+        {
+            "id": "m_69f33090513ad7.39161542",
+            "filename": "photo_69f330905112f4.51366961.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Les trois Joe"
+        },
+        {
+            "id": "m_69f33090524a54.38133006",
+            "filename": "photo_69f3309051e7f8.84415846.jpg",
+            "width": 2916,
+            "height": 2920,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": ""
+        },
+        {
+            "id": "m_69f33090549bd6.08611002",
+            "filename": "photo_69f330905479a0.07744288.jpg",
+            "width": 768,
+            "height": 1024,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": ""
+        },
+        {
+            "id": "m_69f330905a1816.38138541",
+            "filename": "photo_69f3309059d6f9.22114075.jpg",
+            "width": 1569,
+            "height": 2343,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "La Grande Maison, celle de Papa  on voit la mastaba, et celle de Joe devant "
+        },
+        {
+            "id": "m_69f330905c2760.71469182",
+            "filename": "photo_69f330905c0473.41071210.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Nous autour de Papa et Maman à Genève"
+        },
+        {
+            "id": "m_69f330905c7be8.33607220",
+            "filename": "photo_69f330905c54f3.50554339.jpg",
+            "width": 1003,
+            "height": 1403,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": ""
+        },
+        {
+            "id": "m_69f330905ff912.65785251",
+            "filename": "photo_69f330905fdf38.06420169.jpg",
+            "width": 722,
+            "height": 1088,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Charly le prestidigitateur !"
+        },
+        {
+            "id": "m_69f33090650619.91069400",
+            "filename": "photo_69f3309064e377.44797541.jpg",
+            "width": 722,
+            "height": 1088,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Maman et Micheline en Pique-nique"
+        },
+        {
+            "id": "m_69f3309069d6e2.89608694",
+            "filename": "photo_69f3309068ddf7.12562259.jpg",
+            "width": 4032,
+            "height": 3024,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Khartoum à Asmara"
+        },
+        {
+            "id": "m_69f330906ac239.86162949",
+            "filename": "photo_69f330906a9f49.45984850.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Lucie et nous plus grands"
+        },
+        {
+            "id": "m_69f33090718e33.08887753",
+            "filename": "photo_69f330907163c6.80633964.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "*Pastouche Miguèle Murièle en vadrouille"
+        },
+        {
+            "id": "m_69f3309074e932.71915088",
+            "filename": "photo_69f3309074cf14.20726013.jpg",
+            "width": 1076,
+            "height": 730,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "Chez Nonna à Héliopolios  : Lili Raymond , Nado, Henri, Chantal ,Coco, Les 3 filles Agouri ,Marie, Roger, Samir Jojo"
+        },
+        {
+            "id": "m_69f330907bef49.14813784",
+            "filename": "photo_69f330907bc6b9.67085766.jpg",
+            "width": 722,
+            "height": 1088,
+            "uploadedAt": "2026-04-30T12:36:00+02:00",
+            "defaultCaption": "Souvenirs de la confiture de dattes de Granny"
+        },
+        {
+            "id": "m_69f331616acd86.00230120",
+            "filename": "photo_69f331616aaef6.39889749.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:39:29+02:00",
+            "defaultCaption": "Vue sur la Mastaba où nous dormions la nuit"
+        },
+        {
+            "id": "m_69f331616e5521.03061171",
+            "filename": "photo_69f331616e1102.06580016.jpg",
+            "width": 1536,
+            "height": 2048,
+            "uploadedAt": "2026-04-30T12:39:29+02:00",
+            "defaultCaption": ""
+        },
+        {
+            "id": "m_69f3318762dd55.77977773",
+            "filename": "photo_69f3318762c187.24035847.jpg",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T12:40:07+02:00",
+            "defaultCaption": ""
+        },
+        {
+            "id": "m_69f331e06aaa78.26749643",
+            "filename": "photo_69f331e06a8c80.08127229.png",
+            "width": 448,
+            "height": 639,
+            "uploadedAt": "2026-04-30T12:41:36+02:00",
+            "defaultCaption": "Charlotte la Soeur de Papa Samir et Nado"
+        },
+        {
+            "id": "m_69f33205069210.66714381",
+            "filename": "photo_69f33205066709.84676930.jpg",
+            "width": 768,
+            "height": 1024,
+            "uploadedAt": "2026-04-30T12:42:13+02:00",
+            "defaultCaption": "Téta Habite à la Grande Maison"
+        },
+        {
+            "id": "m_69f334047450a3.94386547",
+            "filename": "photo_69f33404740ce8.28135639.png",
+            "width": 722,
+            "height": 1088,
+            "uploadedAt": "2026-04-30T12:50:44+02:00",
+            "defaultCaption": "Avec mon appareil de Photo déjà inséparable ."
+        },
+        {
+            "id": "m_69f33d04d60ea6.36573066",
+            "filename": "photo_69f33d04d5a933.13224494.png",
+            "width": 1088,
+            "height": 722,
+            "uploadedAt": "2026-04-30T13:29:08+02:00",
+            "defaultCaption": ""
+        },
+        {
+            "id": "m_69f3423652e044.08866674",
+            "filename": "photo_69f34236529637.78934978.png",
+            "width": 768,
+            "height": 1024,
+            "uploadedAt": "2026-04-30T13:51:18+02:00",
+            "defaultCaption": ""
+        }
+    ],
+    "printablePages": 234
+}

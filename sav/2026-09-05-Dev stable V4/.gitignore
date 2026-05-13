@@ -1,0 +1,49 @@
+# Données générées et caches
+data/LOCAL_ONLY/
+data/SYNC/
+data/cache/
+data/outputs/
+data/trash/
+data/markdown/build/
+data/uploads/
+
+# Anciens emplacements (avant restructuration)
+data/pdf/
+data/pdf-cache/
+data/screenshots/
+data/markdown/clean/
+data/markdown/source/
+
+# Configuration locale
+.env
+.env.local
+capture/.env
+
+# Node modules (capture/)
+node_modules/
+package-lock.json
+
+# Éditeurs et IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs et temporaires
+*.log
+tmp/
+temp/
+
+# PDFs générés
+*.pdf
+!docs/**/*.pdf
+
+# Cache de navigateur
+.cache/
+
+# Fichiers de test
+test-output/
+test-cache/

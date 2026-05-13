@@ -1,0 +1,19 @@
+{
+    "sections": [
+        {
+            "id": "remerciements",
+            "layout": "text-right-only",
+            "title": "Remerciements"
+        },
+        {
+            "id": "toc",
+            "layout": "text-both",
+            "title": "Partie 1 : Une enfance bouscul\u00e9e"
+        },
+        {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "title": "Partie 1 : Une enfance bouscul\u00e9e"
+        }
+    ]
+}

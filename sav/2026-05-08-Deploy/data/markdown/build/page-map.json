@@ -1,0 +1,881 @@
+{
+    "sourceToFinal": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 9,
+        "9": 11,
+        "10": 13,
+        "11": 15,
+        "12": 17,
+        "13": 19,
+        "14": 21,
+        "15": 23,
+        "16": 25,
+        "17": 27,
+        "18": 29,
+        "19": 31,
+        "20": 33,
+        "21": 35,
+        "22": 36,
+        "23": 37,
+        "24": 38,
+        "25": 39,
+        "26": 41,
+        "27": 43,
+        "28": 45,
+        "29": 47,
+        "30": 49,
+        "31": 51,
+        "32": 53,
+        "33": 55,
+        "34": 57,
+        "35": 59,
+        "36": 61,
+        "37": 63,
+        "38": 65,
+        "39": 67,
+        "40": 69,
+        "41": 71,
+        "42": 73,
+        "43": 75,
+        "44": 77,
+        "45": 79,
+        "46": 81,
+        "47": 83,
+        "48": 85,
+        "49": 87,
+        "50": 89,
+        "51": 91,
+        "52": 93,
+        "53": 95,
+        "54": 97,
+        "55": 99,
+        "56": 101,
+        "57": 103,
+        "58": 105,
+        "59": 107,
+        "60": 109,
+        "61": 111,
+        "62": 113,
+        "63": 115,
+        "64": 117,
+        "65": 119,
+        "66": 121,
+        "67": 123,
+        "68": 125,
+        "69": 127,
+        "70": 129,
+        "71": 131,
+        "72": 133,
+        "73": 135,
+        "74": 137,
+        "75": 139,
+        "76": 141,
+        "77": 143,
+        "78": 145,
+        "79": 147,
+        "80": 149,
+        "81": 151,
+        "82": 153,
+        "83": 155,
+        "84": 157,
+        "85": 159,
+        "86": 161,
+        "87": 163,
+        "88": 165,
+        "89": 167,
+        "90": 169,
+        "91": 171,
+        "92": 173,
+        "93": 175,
+        "94": 177,
+        "95": 179,
+        "96": 181,
+        "97": 183,
+        "98": 185,
+        "99": 187,
+        "100": 189,
+        "101": 191,
+        "102": 193,
+        "103": 195,
+        "104": 197,
+        "105": 199,
+        "106": 201,
+        "107": 203,
+        "108": 205,
+        "109": 207,
+        "110": 209,
+        "111": 211,
+        "112": 213,
+        "113": 215,
+        "114": 217,
+        "115": 219,
+        "116": 221,
+        "117": 223,
+        "118": 225,
+        "119": 227,
+        "120": 228,
+        "121": 229,
+        "122": 230,
+        "123": 231,
+        "124": 232,
+        "125": 233,
+        "126": 234
+    },
+    "blanksBefore": {
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1,
+        "21": 1,
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "29": 1,
+        "30": 1,
+        "31": 1,
+        "32": 1,
+        "33": 1,
+        "34": 1,
+        "35": 1,
+        "36": 1,
+        "37": 1,
+        "38": 1,
+        "39": 1,
+        "40": 1,
+        "41": 1,
+        "42": 1,
+        "43": 1,
+        "44": 1,
+        "45": 1,
+        "46": 1,
+        "47": 1,
+        "48": 1,
+        "49": 1,
+        "50": 1,
+        "51": 1,
+        "52": 1,
+        "53": 1,
+        "54": 1,
+        "55": 1,
+        "56": 1,
+        "57": 1,
+        "58": 1,
+        "59": 1,
+        "60": 1,
+        "61": 1,
+        "62": 1,
+        "63": 1,
+        "64": 1,
+        "65": 1,
+        "66": 1,
+        "67": 1,
+        "68": 1,
+        "69": 1,
+        "70": 1,
+        "71": 1,
+        "72": 1,
+        "73": 1,
+        "74": 1,
+        "75": 1,
+        "76": 1,
+        "77": 1,
+        "78": 1,
+        "79": 1,
+        "80": 1,
+        "81": 1,
+        "82": 1,
+        "83": 1,
+        "84": 1,
+        "85": 1,
+        "86": 1,
+        "87": 1,
+        "88": 1,
+        "89": 1,
+        "90": 1,
+        "91": 1,
+        "92": 1,
+        "93": 1,
+        "94": 1,
+        "95": 1,
+        "96": 1,
+        "97": 1,
+        "98": 1,
+        "99": 1,
+        "100": 1,
+        "101": 1,
+        "102": 1,
+        "103": 1,
+        "104": 1,
+        "105": 1,
+        "106": 1,
+        "107": 1,
+        "108": 1,
+        "109": 1,
+        "110": 1,
+        "111": 1,
+        "112": 1,
+        "113": 1,
+        "114": 1,
+        "115": 1,
+        "116": 1,
+        "117": 1,
+        "118": 1,
+        "119": 1
+    },
+    "sectionByPage": {
+        "1": {
+            "id": "remerciements",
+            "layout": "text-right-only",
+            "blank": true
+        },
+        "2": {
+            "id": "remerciements",
+            "layout": "text-right-only",
+            "blank": true
+        },
+        "3": {
+            "id": "remerciements",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "4": {
+            "id": "toc",
+            "layout": "text-both",
+            "blank": false
+        },
+        "5": {
+            "id": "toc",
+            "layout": "text-both",
+            "blank": false
+        },
+        "6": {
+            "id": "toc",
+            "layout": "text-both",
+            "blank": true
+        },
+        "7": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "8": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "9": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "10": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "11": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "12": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "13": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "14": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "15": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "16": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "17": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "18": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "19": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "20": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "21": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "22": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": true
+        },
+        "23": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "24": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": true
+        },
+        "25": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "26": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "27": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "28": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "29": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "30": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "31": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "32": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "33": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "34": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "35": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "36": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "37": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "38": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "39": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "40": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "41": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "42": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "43": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "44": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "45": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "46": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "47": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "48": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "49": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "50": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "51": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "52": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "53": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "54": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "55": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "56": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "57": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "58": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "59": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "60": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "61": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "62": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "63": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "64": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "65": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "66": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "67": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "68": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "69": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "70": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "71": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "72": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "73": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "74": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "75": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "76": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "77": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "78": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "79": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "80": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "81": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "82": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "83": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "84": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "85": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "86": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "87": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "88": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "89": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "90": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "91": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "92": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "93": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "94": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "95": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "96": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "97": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "98": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "99": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "100": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "101": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "102": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "103": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "104": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "105": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "106": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "107": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "108": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "109": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "110": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "111": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "112": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "113": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "114": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "115": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "116": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "117": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "118": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "119": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": false
+        },
+        "120": {
+            "id": "Partie1",
+            "layout": "text-right-only",
+            "blank": true
+        },
+        "121": {
+            "id": "annexes",
+            "layout": "text-both",
+            "blank": false
+        },
+        "122": {
+            "id": "annexes",
+            "layout": "text-both",
+            "blank": false
+        },
+        "123": {
+            "id": "annexes",
+            "layout": "text-both",
+            "blank": false
+        },
+        "124": {
+            "id": "annexes",
+            "layout": "text-both",
+            "blank": false
+        },
+        "125": {
+            "id": "annexes",
+            "layout": "text-both",
+            "blank": false
+        },
+        "126": {
+            "id": "annexes",
+            "layout": "text-both",
+            "blank": false
+        }
+    },
+    "blankSourcePages": [
+        1,
+        2,
+        6,
+        22,
+        24,
+        120
+    ],
+    "finalPageCount": 234
+}

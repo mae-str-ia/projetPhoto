@@ -1,0 +1,15 @@
+# Production environment
+SetEnv APP_MODE server
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Uploads doivent être accessibles
+    RewriteRule ^uploads/(.*)$ data/uploads/$1 [L]
+
+    # Tout le reste va à app/public/
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ app/public/$1 [L]
+</IfModule>

@@ -1,0 +1,18 @@
+# Configuration Typst pour le projet ProjetPhoto
+
+[font]
+# Chemin vers les fichiers de police locaux
+paths = ["./fonts"]
+
+# Familles de polices
+families = [
+  # Libertinus Serif (nouveau)
+  { name = "Libertinus Serif", fonts = [
+    { path = "libertinus/LibertinusSerif-Regular.ttf" },
+    { path = "libertinus/LibertinusSerif-Bold.ttf", weight = "bold" },
+    { path = "libertinus/LibertinusSerif-Italic.ttf", style = "italic" },
+    { path = "libertinus/LibertinusSerif-BoldItalic.ttf", weight = "bold", style = "italic" },
+  ]},
+  # Fallback fonts
+  { name = "Arial", fonts = [] },
+]

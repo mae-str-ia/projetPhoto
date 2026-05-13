@@ -1,0 +1,14 @@
+{
+    "name": "projet-photo/projet-photo",
+    "description": "Photo book composition application",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "phpoffice/phpword": "^0.18 || ^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

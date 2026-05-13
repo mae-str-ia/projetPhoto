@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Serve data assets (photos, pdf-cache, pdf) from data/ directory
+    RewriteRule ^uploads/(.*)$ data/uploads/$1 [L]
+    RewriteRule ^pdf-cache/(.*)$ data/pdf-cache/$1 [L]
+    RewriteRule ^pdf/(.*)$ data/pdf/$1 [L]
+
+    # Route everything else to app/public/
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ app/public/$1 [L]
+</IfModule>
