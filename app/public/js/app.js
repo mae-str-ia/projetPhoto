@@ -10,15 +10,6 @@ const App = {
      * Initialize app on DOMContentLoaded
      */
     init() {
-        // Export button
-        const exportBtn = document.getElementById('exportBtn');
-        if (exportBtn) {
-            exportBtn.addEventListener('click', (e) => {
-                e.preventDefault();
-                this.exportBook();
-            });
-        }
-
         const generateTextPdfBtn = document.getElementById('generateTextPdfBtn');
         if (generateTextPdfBtn) {
             generateTextPdfBtn.addEventListener('click', (e) => {
@@ -32,47 +23,6 @@ const App = {
             generateFinalPdfBtn.addEventListener('click', (e) => {
                 e.preventDefault();
                 this.generateFinalPdf();
-            });
-        }
-    },
-
-    /**
-     * Export book to Word document
-     */
-    exportBook() {
-        if (confirm('Êtes-vous sûr de vouloir exporter le livre en Word?\n\nCela peut prendre quelques secondes...')) {
-            const loading = document.createElement('div');
-            loading.className = 'loading';
-            loading.textContent = 'Export en cours...';
-            document.body.appendChild(loading);
-
-            fetch(this.baseUrl + '/api/export.php', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({action: 'export'})
-            })
-            .then(r => {
-                loading.remove();
-                if (r.ok) {
-                    return r.blob().then(blob => {
-                        const url = window.URL.createObjectURL(blob);
-                        const a = document.createElement('a');
-                        a.href = url;
-                        a.download = 'ProjetPhoto.docx';
-                        document.body.appendChild(a);
-                        a.click();
-                        a.remove();
-                        window.URL.revokeObjectURL(url);
-                    });
-                } else {
-                    return r.json().then(data => {
-                        alert('Erreur: ' + (data.error || 'Erreur inconnue'));
-                    });
-                }
-            })
-            .catch(err => {
-                loading.remove();
-                alert('Erreur: ' + err.message);
             });
         }
     },

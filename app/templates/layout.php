@@ -29,7 +29,7 @@
             <nav class="nav-links">
                 <a href="?page=gallery" class="nav-link<?php echo $currentPage === 'gallery' ? ' nav-link--active' : ''; ?>">Livre</a>
                 <a href="?page=media"   class="nav-link<?php echo $currentPage === 'media'   ? ' nav-link--active' : ''; ?>">Médiathèque</a>
-                <div class="nav-dropdown<?php echo in_array($currentPage, ['options','export']) ? ' nav-link--active' : ''; ?>">
+                <div class="nav-dropdown<?php echo $currentPage === 'options' ? ' nav-link--active' : ''; ?>">
                     <button class="nav-link nav-dropdown-toggle">Options ▾</button>
                     <div class="nav-dropdown-menu">
                         <a href="?page=gallery#props" class="nav-dropdown-item" id="openPropsLink">Paramètres</a>
@@ -37,7 +37,6 @@
                         <a href="#" class="nav-dropdown-item" id="generateTextPdfBtn">Régénérer PDF texte</a>
                         <a href="#" class="nav-dropdown-item" id="generateFinalPdfBtn">Générer PDF complet</a>
                         <?php endif; ?>
-                        <a href="#" class="nav-dropdown-item" id="exportBtn">Exporter Word</a>
                     </div>
                 </div>
             </nav>
